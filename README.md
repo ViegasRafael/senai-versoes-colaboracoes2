@@ -1,0 +1,3 @@
+Comandos Read Me:
+
+git init Cria a estrutura inicial do repositório Git no computador local.git statusVerifica o status das alterações realizadas no repositório.git addAdiciona arquivos ao histórico do projeto, na staging.git commitRegistra/salva a alteração no repositório.git logPermite visualizar as alterações feitas.git show número-do-commitPermite visualizar informações sobre qualquer commit.git remote add origin "destino"Informa a pasta remota.git remote –vPermite visualizar o repositório remoto.git push -u origin masterPublica as alterações no repositório remoto.git pullBaixa as alterações no repositório remoto.
